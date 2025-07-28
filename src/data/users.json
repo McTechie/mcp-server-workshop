@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "role": "SuperAdmin",
+    "organizationId": 1,
+    "email": "abc@example.com"
+  },
+  {
+    "id": 2,
+    "role": "SuperAdmin",
+    "organizationId": 1,
+    "email": "def@example.com"
+  },
+  {
+    "id": 3,
+    "role": "OrganizationUser",
+    "organizationId": 2,
+    "email": "ghi@example.com"
+  },
+  {
+    "id": 4,
+    "role": "OrganizationUser",
+    "organizationId": 2,
+    "email": "jkl@example.com"
+  },
+  {
+    "id": 5,
+    "role": "super_admin",
+    "email": "test@example.com",
+    "organizationId": 3
+  },
+  {
+    "id": 6,
+    "role": "super_admin",
+    "email": "test@example.com",
+    "organizationId": 3
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Tokyo Gas Co., Ltd.",
+    "product": "ZB Reporting"
+  },
+  {
+    "id": 2,
+    "name": "Toray Industries, Inc.",
+    "product": "ZB ESG"
+  },
+  {
+    "id": 3,
+    "name": "Sony Group Corporation",
+    "product": "ZB GHG"
+  }
+]
