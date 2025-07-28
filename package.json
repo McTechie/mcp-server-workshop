@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "server:build": "tsc",
-    "server:build:watch": "tsc --watch",
+    "server:watch": "tsc --watch",
     "server:inspect": "set DANGEROUSLY_OMIT_AUTH=true && npx @modelcontextprotocol/inspector node build/server.js"
   },
   "keywords": [],
